@@ -44,5 +44,5 @@ VALUES ('BIG Chips', 'Snacks', 10, 100),
 	('Vilvita', 'Detergents', 70, 20),
 	('Green Land', 'FoodSupplies', 40, 60),
 	('V Cola', 'Beverges', 12.3, 80),
-	('Rich Bakre Toast', 'Bakery', 40, 5);
+	('Rich Bake Toast', 'Bakery', 40, 5);
 SELECT * FROM products;
