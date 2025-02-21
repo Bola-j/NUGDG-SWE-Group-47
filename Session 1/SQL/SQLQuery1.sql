@@ -66,30 +66,33 @@ VALUES (1, '2021-02-02', 1, 2),
 SELECT * FROM orders;
 
 SELECT TOP 3 productID, productName, price, stockQuantity FROM products 
-ORDER BY price DESC; -- DISPLAY the top 3 most expensive products.
+ORDER BY price DESC;
+-- DISPLAY the top 3 most expensive products.
 
-select * from customers where registrationDate > '2021-01-01'; 
+SELECT * FROM customers WHERE registrationDate > '2021-01-01'; 
 --Show customers who registered after a specific date.
 
-select customers.firstName,customers.lastName, * from orders join customers on orders.customerid = customers.customerid;
+SELECT customers.firstName,customers.lastName, * FROM orders JOIN customers ON orders.customerid = customers.customerid;
 --Orders with customer names and product details.
 
-select sub.customerID, sum(sub.total_price) as total_spent
-from (
-select products.price * quantity as total_price, ID, orders.customerID 
-from orders 
-join products 
-on orders.productID = products.productID) sub
-group by sub.customerID; -- Total amount spent by each customer
+SELECT sub.customerID, sum(sub.total_price) AS total_spent
+FROM (
+SELECT products.price * quantity AS total_price, ID, orders.customerID 
+FROM orders 
+JOIN products 
+ON orders.productID = products.productID) sub
+GROUP BY sub.customerID;
+-- Total amount spent by each customer
 
-select sales.productID , sum(sales.total_price) as product_sales 
-from
-(select products.price * quantity as total_price, products.ProductID, orders.customerID 
-from orders 
-join products 
-on orders.productID = products.productID) sales
-group by sales.ProductID; -- Total sales for each product.
+SELECT sales.productID , sum(sales.total_price) AS product_sales 
+FROM
+(SELECT products.price * quantity AS total_price, products.ProductID, orders.customerID 
+FROM orders 
+JOIN products 
+ON orders.productID = products.productID) sales
+GROUP BY sales.ProductID;
+-- Total sales for each product.
 
 
-SELECT count(customerID) as orders_done , customerID from orders group by customerID;
+SELECT count(customerID) AS orders_done , customerID FROM orders GROUP BY customerID;
 --The number of orders placed by each customer.
