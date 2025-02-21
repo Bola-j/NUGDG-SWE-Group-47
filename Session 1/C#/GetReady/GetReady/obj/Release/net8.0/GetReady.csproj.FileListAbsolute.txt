@@ -1,0 +1,15 @@
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\bin\Release\net8.0\GetReady.exe
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\bin\Release\net8.0\GetReady.deps.json
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\bin\Release\net8.0\GetReady.runtimeconfig.json
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\bin\Release\net8.0\GetReady.dll
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\bin\Release\net8.0\GetReady.pdb
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.AssemblyInfoInputs.cache
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.AssemblyInfo.cs
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.csproj.CoreCompileInputs.cache
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.sourcelink.json
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.dll
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\refint\GetReady.dll
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.pdb
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\GetReady.genruntimeconfig.cache
+D:\Academics\GDG-SWE\Week 1\SQL\RetailStoreDB\Session 1\C#\GetReady\GetReady\obj\Release\net8.0\ref\GetReady.dll

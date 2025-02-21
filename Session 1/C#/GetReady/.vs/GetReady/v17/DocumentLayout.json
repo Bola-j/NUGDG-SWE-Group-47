@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEC75BE-35B8-4A93-B6A8-9E33ADD9DF77}|GetReady\\GetReady.csproj|d:\\academics\\gdg-swe\\week 1\\sql\\retailstoredb\\session 1\\c#\\getready\\getready\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEC75BE-35B8-4A93-B6A8-9E33ADD9DF77}|GetReady\\GetReady.csproj|solutionrelative:getready\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\Program.cs",
+              "RelativeDocumentMoniker": "GetReady\\Program.cs",
+              "ToolTip": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\Program.cs",
+              "RelativeToolTip": "GetReady\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:09:57.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
