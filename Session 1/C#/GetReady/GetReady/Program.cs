@@ -28,25 +28,33 @@ namespace GetReady
 
             do
             {
-                Console.Clear();
-                Console.WriteLine("\tSimple calculator");
+                try
+                {
+                    Console.Clear();
+                    Console.WriteLine("\tSimple calculator");
 
-                Console.Write("Enter the operand 1: ");
-                operand1 = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Enter the operand 1: ");
+                    operand1 = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Enter the operand 2: ");
-                operand2 = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Enter the operand 2: ");
+                    operand2 = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Enter the operation: ");
-                operation = Convert.ToChar(Console.Read());
+                    Console.Write("Enter the operation: ");
+                    operation = Convert.ToChar(Console.ReadLine());
 
-                Console.WriteLine(operand1 + " " + operation + " " + operand2 + " = " + Calculate(operand1, operand2, operation));
-                Console.WriteLine("\tPress any key to do another calculation or " +
-                    "\n\t\tctrl + c to exit");
-                Console.ReadKey();
-                Console.ReadLine();
-            }
-            while (true);
+                    Console.WriteLine(operand1 + " " + operation + " " + operand2 + " = " + Calculate(operand1, operand2, operation));
+                    Console.WriteLine("\tPress any key to do another calculation or " +
+                        "\n\t\tctrl + c to exit");
+                    Console.ReadKey();
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid input");
+                    Console.WriteLine("\tPress any key to do another calculation or " +
+                        "\n\t\tctrl + c to exit");
+                    Console.ReadKey();
+                }
+            } while (true);
         }
     }
 }

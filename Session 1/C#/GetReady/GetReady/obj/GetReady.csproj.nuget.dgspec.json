@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj": {}
+    "D:\\Academics\\GDG-SWE\\NUGDG-SWE-Group-47\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj": {}
   },
   "projects": {
-    "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj": {
+    "D:\\Academics\\GDG-SWE\\NUGDG-SWE-Group-47\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj",
+        "projectUniqueName": "D:\\Academics\\GDG-SWE\\NUGDG-SWE-Group-47\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj",
         "projectName": "GetReady",
-        "projectPath": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj",
+        "projectPath": "D:\\Academics\\GDG-SWE\\NUGDG-SWE-Group-47\\Session 1\\C#\\GetReady\\GetReady\\GetReady.csproj",
         "packagesPath": "C:\\Users\\sotir\\.nuget\\packages\\",
-        "outputPath": "D:\\Academics\\GDG-SWE\\Week 1\\SQL\\RetailStoreDB\\Session 1\\C#\\GetReady\\GetReady\\obj\\",
+        "outputPath": "D:\\Academics\\GDG-SWE\\NUGDG-SWE-Group-47\\Session 1\\C#\\GetReady\\GetReady\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
