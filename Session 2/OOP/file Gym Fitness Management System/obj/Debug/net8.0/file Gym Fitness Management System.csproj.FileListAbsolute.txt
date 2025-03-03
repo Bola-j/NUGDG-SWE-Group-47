@@ -1,0 +1,15 @@
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\bin\Debug\net8.0\file Gym Fitness Management System.exe
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\bin\Debug\net8.0\file Gym Fitness Management System.deps.json
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\bin\Debug\net8.0\file Gym Fitness Management System.runtimeconfig.json
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\bin\Debug\net8.0\file Gym Fitness Management System.dll
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\bin\Debug\net8.0\file Gym Fitness Management System.pdb
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.AssemblyInfoInputs.cache
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.AssemblyInfo.cs
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.csproj.CoreCompileInputs.cache
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.sourcelink.json
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.dll
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\refint\file Gym Fitness Management System.dll
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.pdb
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\file Gym Fitness Management System.genruntimeconfig.cache
+C:\Users\الطاحونة\Documents\GitHub\NUGDG-SWE-Group-47\Session 2\OOP\file Gym Fitness Management System\obj\Debug\net8.0\ref\file Gym Fitness Management System.dll
