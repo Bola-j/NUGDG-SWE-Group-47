@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Group 47
+// SOTIR USAMA 221000694 / Bola Ghaly 241000985
+
+using System;
 class Prgram{
     static void Main(){
         Gym gym = new Gym();
