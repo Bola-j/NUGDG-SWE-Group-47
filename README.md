@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-AUTHORS: BOLA GEREGES <www.bolagereges@gmail.com>
+AUTHORS: 
+         BOLA GEREGES <www.bolagereges@gmail.com>
          SOTIR LATIF  <sotirusama16@gmail.com>
 =======
 Authors: SOTIR USAMA Sotirusama16@gmail.com / Bola Ghaly www.bolagerges@gmail.com
